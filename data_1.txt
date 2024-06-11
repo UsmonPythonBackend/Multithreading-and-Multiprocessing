@@ -1,0 +1,8 @@
+python
+java
+c#
+lazy
+c++
+php
+javascript
+sql
